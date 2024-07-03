@@ -88,7 +88,7 @@ window.addEventListener('scroll', function() {
 const progressBars = document.querySelectorAll('.filled_Bar');
 
 // Define the target widths for each progress bar in an array
-const targetWidths = [90, 90, 40, 80 , 80]; // in percentage
+const targetWidths = [90, 90, 70, 80 , 50]; // in percentage
 
 // Define the duration of the animation in milliseconds
 const animationDuration = 1000;
