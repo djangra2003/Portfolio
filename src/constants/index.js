@@ -9,22 +9,22 @@ export const ABOUT_TEXT = `I am currently pursuing B.Tech from Dronacharya Group
 
 export const EDUCATION = [
   {
-    Course:"BTech",
-    College:"Dronacharya Group of Instituions",
-    Year_of_Passing:"2025"
-    // Percentage:"70%"
+    Course:"Couse:B.Tech",
+    College:"College: Dronacharya Group of Institutions",
+    Year_of_Passing:"Year_of_Passing: 2025",
+    Percentage:"Percentage:70%"
   },
   {
-    Class:"12th",
-    School:"Faith Academy",
-    Year_of_Passing:"2021"
-    // Percentage:"70%"
+    Course:"Class:12th",
+    College:"School: Faith Academy",
+    Year_of_Passing:"Year_of_Passing: 2021",
+    Percentage:"Percentage:72%"
   },
   {
-    Class:"10th",
-    School:"Faith Academy",
-    Year_of_Passing:"2019"
-    // Percentage:"70%"
+    Course:"Class:10th",
+    College:"School: Faith Academy",
+    Year_of_Passing:"Year_of_Passing: 2019",
+    Percentage:"Percentage:73%"
   }
 ]
 export const EXPERIENCES = [
