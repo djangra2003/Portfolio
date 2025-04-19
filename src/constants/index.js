@@ -88,7 +88,7 @@ export const PROJECTS = [
     title: "Beach Buddy",
     image: project4,
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
+      "Beach Buddy is a full-stack web application designed to enhance beach tourism experiences across India. The platform provides users with real-time, comprehensive information about various beach locations, including' weather updates, local attractions, and safety guidelines. Users can also share their experiences and reviews, fostering a community of beach enthusiasts.",
     technologies: ["HTML", "CSS", "Reeact.js", "Express.Js", "PostgreSQL", "Node.js"],
   },
 ];
