@@ -25,13 +25,13 @@ const Education = () => {
                 className="w-full lg:w-1/4">
                     <p className="mb-2 text-2xl text-neutral-400">{education.College}</p>
                 </motion.div>
-                <motion.div
+                {/* <motion.div
                 whileInView={{opacity:1,x:0}}
                 initial={{opacity:0,x:-100}}
                 transition={{duration:1}}
                 className="w-full lg:w-1/4">
                     <p className="mb-2 text-2xl text-neutral-400">{education.Percentage}</p>
-                </motion.div>
+                </motion.div> */}
                 <motion.div
                 whileInView={{opacity:1,x:0}}
                 initial={{opacity:0,x:100}}
